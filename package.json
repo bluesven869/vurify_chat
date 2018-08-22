@@ -2,7 +2,7 @@
   "name": "vuetify-chat",
   "version": "0.0.1",
   "description": "A chat built with Vue + Vuex + Vuetify + Firebase",
-  "author": "Berk Emre Saribas",
+  "author": "BlueSven869",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
